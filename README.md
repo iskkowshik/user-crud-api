@@ -68,8 +68,8 @@ Request Body (example):
 
 json
 {
-  "name": "Updated Sai Kowshik",
-  "email": "updated@example.com"
+  "name": "Sai Kowshik",
+  "email": "iskkowshik@example.com"
 }
 
 5. Delete a User
